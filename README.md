@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sajadahmed32087" target="blank"><img src="https://img.shields.io/twitter/follow/sajadahmed32087?logo=twitter&style=for-the-badge" alt="sajadahmed32087" /></a> </p>
 
-- 🌱 I’m currently learning *Flutter.*
+- 🌱 I’m currently learning *Artificial Intelegence.*
 
 - 💬 Ask me about *C, C++,OOP(C++), Data Structure, Python..*
 
