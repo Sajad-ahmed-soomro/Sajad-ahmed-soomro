@@ -52,18 +52,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajad-ahmed&show_icons=true&theme=github_dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajad-ahmed&theme=dark" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajad-ahmed-soomro&show_icons=true&theme=github_dark" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajad-ahmed-soomro&theme=dark" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-ahmed&layout=compact&theme=github_dark" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajad-ahmed-soomro&layout=compact&theme=github_dark" height="150px" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajad-ahmed&theme=darkhub&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sajad-ahmed-soomro&theme=darkhub&margin-w=10&no-frame=true" />
 </p>
 
 ---
