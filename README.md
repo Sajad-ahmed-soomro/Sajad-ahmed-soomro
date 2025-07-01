@@ -2,8 +2,9 @@
 <h3 align="center">Backend Engineer | MERN Stack Developer | CI/CD | Docker & Kubernetes | Next.js | Auth & Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+CI%2FCD+Pipelines+%7C+Docker+%26+K8s;MERN+Stack+%7C+Next.js+%7C+MongoDB+%7C+PostgreSQL;Authentication+%7C+JWT+%7C+OAuth+%7C+Google%2FGitHub+Logins;System+Design+%7C+MVC+Architecture+%7C+Testing+with+Cypress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Backend+Engineer+%7C+CI%2FCD+Pipelines+%7C+Docker+%26+K8s;MERN+Stack+Developer+%7C+Next.js+%7C+MongoDB+%7C+PostgreSQL;Authentication+%7C+JWT+%7C+OAuth+%7C+Google%2FGitHub+Logins;System+Design+%7C+MVC+Architecture+%7C+Testing+with+Cypress" alt="Typing SVG" />
 </p>
+
 
 ---
 
