@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajad Ahmed</h1>
-<h3 align="center">💻 Backend Engineer | MERN Stack Developer | CI/CD | Docker & Kubernetes | Next.js | Auth & Testing</h3>
+<h3 align="center">Backend Engineer | MERN Stack Developer | CI/CD | Docker & Kubernetes | Next.js | Auth & Testing</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+CI%2FCD+Pipelines+%7C+Docker+%26+K8s;MERN+Stack+%7C+Next.js+%7C+MongoDB+%7C+PostgreSQL;Authentication+%7C+JWT+%7C+OAuth+%7C+Google%2FGitHub+Logins;System+Design+%7C+MVC+Architecture+%7C+Testing+with+Cypress" alt="Typing SVG" />
@@ -59,7 +59,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: [youremail@example.com]
+- 📧 Email: [sajadahmedsoomro321@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/sajad-ahmed/)
 - 🌐 [Portfolio](https://portfolio-six-swart-10.vercel.app/)
 
