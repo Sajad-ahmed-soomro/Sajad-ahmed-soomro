@@ -16,7 +16,7 @@
 - ⚙️ Built microservices with **Docker**, **Kubernetes**, and **GitHub Actions**
 - 🔒 Implemented full-stack **Authentication** (JWT, OAuth, Google/GitHub login)
 - 🧪 Completed **QA Testing** training using **Cypress** for manual & automated tests
-- 🌐 Portfolio: [portfolio-six-swart-10.vercel.app](https://portfolio-six-swart-10.vercel.app/)
+- 🌐 Portfolio: [portfolio-six-swart-10.vercel.app](https://sajad-ahmed-portfolio.vercel.app/)
 
 ---
 
@@ -72,6 +72,6 @@
 
 - 📧 Email: [sajadahmedsoomro321@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/sajad-ahmed/)
-- 🌐 [Portfolio](https://portfolio-six-swart-10.vercel.app/)
+- 🌐 [Portfolio](https://sajad-ahmed-portfolio.vercel.app/)
 
 ---
