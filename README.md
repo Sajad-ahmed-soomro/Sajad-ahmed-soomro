@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Student at FAST-NUCES, Islamabad
+- 🎓 Graduate from FAST-NUCES, Islamabad
 - 💼 Strong in **Backend Engineering**, REST APIs, and **CI/CD Pipelines**
 - 💡 Skilled in **MERN Stack**, **Next.js**, **PostgreSQL**, and **System Design**
 - ⚙️ Built microservices with **Docker**, **Kubernetes**, and **GitHub Actions**
